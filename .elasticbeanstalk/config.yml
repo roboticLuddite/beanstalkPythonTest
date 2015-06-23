@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: beanstalkPythonTest-dev
+global:
+  application_name: beanstalkPythonTest
+  default_ec2_keyname: KeyPairEast
+  default_platform: Python 3.4
+  default_region: null
+  profile: null
+  sc: git
